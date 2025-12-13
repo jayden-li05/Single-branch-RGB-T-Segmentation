@@ -8,3 +8,5 @@ https://drive.google.com/drive/folders/16XkqDVFUibgKbS9s8jGd5JdAqgV6U0Zs?usp=sha
 
 The paper is currently under submission
 The code is coming soon.
+
+# Single-branch-RGB-T-Segmentation
