@@ -10,5 +10,7 @@ The paper is currently under submission
 The code is coming soon.
 
 # MFNet limitation
-<img width="640" height="480" alt="01242N" src="https://github.com/user-attachments/assets/2f944d82-dbba-40ca-8571-648f29ba7a85" />
+we further analyzed the MFNet dataset and identified a potential annotation issue. We found that there are 16 ``Guardrail" annotations in the MFNet test set; however, 11 of them are incorrectly labeled as ``Car stop".01234N–01245N.
+<img width="2610" height="1498" alt="image" src="https://github.com/user-attachments/assets/9db4d630-6770-4c07-af33-c1a119597e2b" />
+
 
