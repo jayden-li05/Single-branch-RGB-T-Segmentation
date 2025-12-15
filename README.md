@@ -9,4 +9,6 @@ https://drive.google.com/drive/folders/16XkqDVFUibgKbS9s8jGd5JdAqgV6U0Zs?usp=sha
 The paper is currently under submission
 The code is coming soon.
 
-# Single-branch-RGB-T-Segmentation
+# MFNet limitation
+<img width="640" height="480" alt="01242N" src="https://github.com/user-attachments/assets/2f944d82-dbba-40ca-8571-648f29ba7a85" />
+
